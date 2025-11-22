@@ -30,13 +30,13 @@ This project implements a robust **Machine Learning pipeline** to predict hourly
 ### 1. The Interactive Prediction Dashboard
 *Users can select specific dates to view the "Bell-Shaped" diurnal curve of ionospheric electron content, comparing predicted values against real-time satellite observations.*
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 *(Note: This interactive interface allows for zooming, filtering, and daily comparisons)*
 
 ### 2. Model Performance (Predicted vs. Actual)
 *LightGBM successfully captures both the morning rise and evening decay of electron content, closely following the 1:1 correlation line.*
 
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](scatter_plot.png)
 
 ---
 
